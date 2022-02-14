@@ -1,4 +1,5 @@
-
+## Guide to the Internet of Things
+### A Hands-On Introduction to Technologies, Procedures, and Architecture
 
 You can use the [Links to chaper code](chapters.md) to find referenced code and solutions.
 
