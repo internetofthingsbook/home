@@ -1,8 +1,12 @@
 ### Authors
 
-Barry Burd
-Michael MacCarthy
-Ian Pollock
+#### Barry Burd
+
+#### Michael MacCarthy
+
+#### Ian Pollock
+
+
 
 ### Acknowledgements
 
