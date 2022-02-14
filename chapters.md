@@ -3,6 +3,7 @@
 
 #### Supplemental chapter information
 
+
 #### [Chapter 1](https://github.com/internetofthingsbook/home/chapter1.md) Overview 
 What is information and how can it be gathered, processed, and acted upon?
 
